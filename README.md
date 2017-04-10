@@ -2,7 +2,7 @@
 认知写作课大作业
 
 ## 项目信息
-* 团队成员：@菟葵 @小星星 @阿杰
+* 团队成员：[@菟葵](https://github.com/Mina-yy) [@小星星](https://github.com/lucy201703) [@阿杰](https://github.com/jason2960)
 * 项目名称：TBD
 * 项目简介：TBD
 * 项目分工：TBD
