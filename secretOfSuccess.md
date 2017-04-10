@@ -6,7 +6,9 @@
 * 组块注意4*5、视觉设计符合认知。。。（回头把攻略里面的list拉出来一条条对）
 * 好的BP看完之后能够产生最小行动，比如多背一公斤、陪孩子读诗
 
-
+## BP攻略检索
+* [BP制作QA](https://github.com/AIWriter/Writer004/wiki/InfoBPQA)
+* [BP制作tips](https://github.com/AIWriter/Writer004/wiki/InfoBPTips)
 
 ## 团队合作规约
 * 对别人做的东西有不同意见时，务必直接提出，脸面这种东西又不能吃可以不要
